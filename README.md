@@ -1,11 +1,22 @@
+About r-recosystem-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-recosystem-feedstock/blob/main/LICENSE.txt)
+
 About r-recosystem
-==================
+------------------
 
 Home: https://github.com/yixuan/recosystem
 
 Package license: BSD-3-Clause
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-recosystem-feedstock/blob/main/LICENSE.txt)
+Summary: R wrapper of the 'libmf' library <https://www.csie.ntu.edu.tw/~cjlin/libmf/> for recommender system using matrix factorization. It is typically used to approximate an incomplete matrix using the product of two matrices in a latent space. Other common names for this task include "collaborative filtering", "matrix completion", "matrix recovery", etc. High performance multi-core parallel computing is supported in this package.
+About r-recosystem
+------------------
+
+Home: https://github.com/yixuan/recosystem
+
+Package license: BSD-3-Clause
 
 Summary: R wrapper of the 'libmf' library <https://www.csie.ntu.edu.tw/~cjlin/libmf/> for recommender system using matrix factorization. It is typically used to approximate an incomplete matrix using the product of two matrices in a latent space. Other common names for this task include "collaborative filtering", "matrix completion", "matrix recovery", etc. High performance multi-core parallel computing is supported in this package.
 
@@ -30,35 +41,35 @@ Current build status
               <td>linux_64_r_base4.1</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17096&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=linux&configuration=linux_64_r_base4.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.1" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_64_r_base4.2</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17096&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=linux&configuration=linux_64_r_base4.2" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.2" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_r_base4.1</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17096&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=osx&configuration=osx_64_r_base4.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.1" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_r_base4.2</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17096&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=osx&configuration=osx_64_r_base4.2" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.2" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17096&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=win&configuration=win_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-recosystem-feedstock?branchName=main&jobName=win&configuration=win%20win_64_" alt="variant">
                 </a>
               </td>
             </tr>
